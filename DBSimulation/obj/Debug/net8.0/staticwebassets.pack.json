@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\credentialsApi.js",
+      "PackagePath": "staticwebassets\\credentialsApi.js"
+    },
+    {
+      "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
+      "PackagePath": "staticwebassets\\query.html"
+    },
+    {
+      "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
+      "PackagePath": "staticwebassets\\queryApi.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DBSimulation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DBSimulation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DBSimulation.props",
+      "PackagePath": "build\\DBSimulation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DBSimulation.props",
+      "PackagePath": "buildMultiTargeting\\DBSimulation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DBSimulation.props",
+      "PackagePath": "buildTransitive\\DBSimulation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

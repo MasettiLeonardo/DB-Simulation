@@ -1,0 +1,6 @@
+@DBSimulation_HostAddress = http://localhost:5193
+
+GET {{DBSimulation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

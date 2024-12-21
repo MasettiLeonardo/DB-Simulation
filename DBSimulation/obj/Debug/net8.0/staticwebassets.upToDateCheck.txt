@@ -1,0 +1,4 @@
+wwwroot\credentialsApi.js
+wwwroot\index.html
+wwwroot\query.html
+wwwroot\queryApi.js

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maset\\source\\repos\\DBSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|c:\\users\\maset\\source\\repos\\dbsimulation\\dbsimulation\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|solutionrelative:dbsimulation\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|c:\\users\\maset\\source\\repos\\dbsimulation\\dbsimulation\\wwwroot\\query.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|solutionrelative:dbsimulation\\wwwroot\\query.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|c:\\users\\maset\\source\\repos\\dbsimulation\\dbsimulation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|solutionrelative:dbsimulation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|c:\\users\\maset\\source\\repos\\dbsimulation\\dbsimulation\\wwwroot\\queryapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|solutionrelative:dbsimulation\\wwwroot\\queryapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|c:\\users\\maset\\source\\repos\\dbsimulation\\dbsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|solutionrelative:dbsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|c:\\users\\maset\\source\\repos\\dbsimulation\\dbsimulation\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7425028E-B1F8-440E-ACAD-EAC5A0425C35}|DBSimulation\\DBSimulation.csproj|solutionrelative:dbsimulation\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "DBSimulation\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+              "RelativeToolTip": "DBSimulation\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-21T13:31:38.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "queryApi.js",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
+              "RelativeDocumentMoniker": "DBSimulation\\wwwroot\\queryApi.js",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
+              "RelativeToolTip": "DBSimulation\\wwwroot\\queryApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-21T13:30:51.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "query.html",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
+              "RelativeDocumentMoniker": "DBSimulation\\wwwroot\\query.html",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
+              "RelativeToolTip": "DBSimulation\\wwwroot\\query.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-21T13:30:49.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "DBSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\Program.cs",
+              "RelativeToolTip": "DBSimulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:10:17.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBSimulation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBSimulation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T13:09:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueryController.cs",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\Controllers\\QueryController.cs",
+              "RelativeDocumentMoniker": "DBSimulation\\Controllers\\QueryController.cs",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\Controllers\\QueryController.cs",
+              "RelativeToolTip": "DBSimulation\\Controllers\\QueryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:05:27.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

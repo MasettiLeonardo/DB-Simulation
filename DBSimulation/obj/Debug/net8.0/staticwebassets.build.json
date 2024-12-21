@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "7GyB/Cx6AH601jZ37zKPcq0k5YxwdbrdgVTuUzdFKO4=",
+  "Source": "DBSimulation",
+  "BasePath": "_content/DBSimulation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DBSimulation\\wwwroot",
+      "Source": "DBSimulation",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\credentialsApi.js",
+      "SourceId": "DBSimulation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "RelativePath": "credentialsApi#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qwjklqja4q",
+      "Integrity": "NtHZSoB1nqKDdWpGA7C6wXozcetMw6VKKDT3ZFYr/nc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\credentialsApi.js"
+    },
+    {
+      "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+      "SourceId": "DBSimulation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n0hswltkf3",
+      "Integrity": "2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
+      "SourceId": "DBSimulation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "RelativePath": "query#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0oqsgw2rrs",
+      "Integrity": "ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\query.html"
+    },
+    {
+      "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
+      "SourceId": "DBSimulation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "RelativePath": "queryApi#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hd5fzhnpyg",
+      "Integrity": "C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\queryApi.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "credentialsApi.js",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\credentialsApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NtHZSoB1nqKDdWpGA7C6wXozcetMw6VKKDT3ZFYr/nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 13:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NtHZSoB1nqKDdWpGA7C6wXozcetMw6VKKDT3ZFYr/nc="
+        }
+      ]
+    },
+    {
+      "Route": "credentialsApi.qwjklqja4q.js",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\credentialsApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NtHZSoB1nqKDdWpGA7C6wXozcetMw6VKKDT3ZFYr/nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 13:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwjklqja4q"
+        },
+        {
+          "Name": "label",
+          "Value": "credentialsApi.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NtHZSoB1nqKDdWpGA7C6wXozcetMw6VKKDT3ZFYr/nc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 13:33:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0="
+        }
+      ]
+    },
+    {
+      "Route": "index.n0hswltkf3.html",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 13:33:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0hswltkf3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0="
+        }
+      ]
+    },
+    {
+      "Route": "query.0oqsgw2rrs.html",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 12:57:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0oqsgw2rrs"
+        },
+        {
+          "Name": "label",
+          "Value": "query.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0="
+        }
+      ]
+    },
+    {
+      "Route": "query.html",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 12:57:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0="
+        }
+      ]
+    },
+    {
+      "Route": "queryApi.hd5fzhnpyg.js",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 13:07:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hd5fzhnpyg"
+        },
+        {
+          "Name": "label",
+          "Value": "queryApi.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc="
+        }
+      ]
+    },
+    {
+      "Route": "queryApi.js",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 13:07:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc="
+        }
+      ]
+    }
+  ]
+}
