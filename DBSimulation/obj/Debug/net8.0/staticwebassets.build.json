@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7GyB/Cx6AH601jZ37zKPcq0k5YxwdbrdgVTuUzdFKO4=",
+  "Hash": "OPW07Yn5+GadBQs5LCCjQXng+mydpehoTj5NncSCq+U=",
   "Source": "DBSimulation",
   "BasePath": "_content/DBSimulation",
   "Mode": "Default",
@@ -38,6 +38,27 @@
       "OriginalItemSpec": "wwwroot\\credentialsApi.js"
     },
     {
+      "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\darkTheme.css",
+      "SourceId": "DBSimulation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "RelativePath": "darkTheme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gw28busj3g",
+      "Integrity": "UJxJsfhSWb2joUOHXRduws43mrX6KZ5LlvdrwhPkMC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\darkTheme.css"
+    },
+    {
       "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
       "SourceId": "DBSimulation",
       "SourceType": "Discovered",
@@ -52,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n0hswltkf3",
-      "Integrity": "2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=",
+      "Fingerprint": "0xjcemof36",
+      "Integrity": "1BW0QGlZOXgHRzOio6Lk5/kn08byyymv7uw/qwvdX20=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0oqsgw2rrs",
-      "Integrity": "ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=",
+      "Fingerprint": "eirnukj5pw",
+      "Integrity": "+vYqHCcT39ClSyFI9JnLIgy4b76Vf6KL3Wtw5iXMvXg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\query.html"
@@ -94,11 +115,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hd5fzhnpyg",
-      "Integrity": "C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=",
+      "Fingerprint": "fcxw325j5f",
+      "Integrity": "MVSLLopO1MDabJfIgozwBq5rkz8/Yg/toeoURPrtAME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\queryApi.js"
+    },
+    {
+      "Identity": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\themeSwitcher.js",
+      "SourceId": "DBSimulation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\",
+      "BasePath": "_content/DBSimulation",
+      "RelativePath": "themeSwitcher#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69deovij3i",
+      "Integrity": "mg7EOx8qY3QMns+O+mpUzoP3NPWcxD8uoyZupkFSZU0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\themeSwitcher.js"
     }
   ],
   "Endpoints": [
@@ -185,6 +227,133 @@
       ]
     },
     {
+      "Route": "darkTheme.css",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\darkTheme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJxJsfhSWb2joUOHXRduws43mrX6KZ5LlvdrwhPkMC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 22:32:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJxJsfhSWb2joUOHXRduws43mrX6KZ5LlvdrwhPkMC4="
+        }
+      ]
+    },
+    {
+      "Route": "darkTheme.gw28busj3g.css",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\darkTheme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJxJsfhSWb2joUOHXRduws43mrX6KZ5LlvdrwhPkMC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 22:32:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gw28busj3g"
+        },
+        {
+          "Name": "label",
+          "Value": "darkTheme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJxJsfhSWb2joUOHXRduws43mrX6KZ5LlvdrwhPkMC4="
+        }
+      ]
+    },
+    {
+      "Route": "index.0xjcemof36.html",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BW0QGlZOXgHRzOio6Lk5/kn08byyymv7uw/qwvdX20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 22:31:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xjcemof36"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BW0QGlZOXgHRzOio6Lk5/kn08byyymv7uw/qwvdX20="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
       "Selectors": [],
@@ -195,7 +364,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3872"
+          "Value": "4107"
         },
         {
           "Name": "Content-Type",
@@ -203,11 +372,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=\""
+          "Value": "\"1BW0QGlZOXgHRzOio6Lk5/kn08byyymv7uw/qwvdX20=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 13:33:04 GMT"
+          "Value": "Mon, 23 Dec 2024 22:31:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -217,57 +386,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0="
+          "Value": "sha256-1BW0QGlZOXgHRzOio6Lk5/kn08byyymv7uw/qwvdX20="
         }
       ]
     },
     {
-      "Route": "index.n0hswltkf3.html",
-      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3872"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 13:33:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "n0hswltkf3"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0="
-        }
-      ]
-    },
-    {
-      "Route": "query.0oqsgw2rrs.html",
+      "Route": "query.eirnukj5pw.html",
       "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\query.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -277,7 +401,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2052"
+          "Value": "3317"
         },
         {
           "Name": "Content-Type",
@@ -285,11 +409,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=\""
+          "Value": "\"+vYqHCcT39ClSyFI9JnLIgy4b76Vf6KL3Wtw5iXMvXg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 12:57:55 GMT"
+          "Value": "Mon, 23 Dec 2024 22:31:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -299,7 +423,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0oqsgw2rrs"
+          "Value": "eirnukj5pw"
         },
         {
           "Name": "label",
@@ -307,7 +431,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0="
+          "Value": "sha256-+vYqHCcT39ClSyFI9JnLIgy4b76Vf6KL3Wtw5iXMvXg="
         }
       ]
     },
@@ -322,7 +446,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2052"
+          "Value": "3317"
         },
         {
           "Name": "Content-Type",
@@ -330,11 +454,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=\""
+          "Value": "\"+vYqHCcT39ClSyFI9JnLIgy4b76Vf6KL3Wtw5iXMvXg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 12:57:55 GMT"
+          "Value": "Mon, 23 Dec 2024 22:31:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -344,12 +468,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0="
+          "Value": "sha256-+vYqHCcT39ClSyFI9JnLIgy4b76Vf6KL3Wtw5iXMvXg="
         }
       ]
     },
     {
-      "Route": "queryApi.hd5fzhnpyg.js",
+      "Route": "queryApi.fcxw325j5f.js",
       "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -359,7 +483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2676"
+          "Value": "2686"
         },
         {
           "Name": "Content-Type",
@@ -367,11 +491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=\""
+          "Value": "\"MVSLLopO1MDabJfIgozwBq5rkz8/Yg/toeoURPrtAME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 13:07:20 GMT"
+          "Value": "Sat, 21 Dec 2024 20:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -381,7 +505,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hd5fzhnpyg"
+          "Value": "fcxw325j5f"
         },
         {
           "Name": "label",
@@ -389,7 +513,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc="
+          "Value": "sha256-MVSLLopO1MDabJfIgozwBq5rkz8/Yg/toeoURPrtAME="
         }
       ]
     },
@@ -404,7 +528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2676"
+          "Value": "2686"
         },
         {
           "Name": "Content-Type",
@@ -412,11 +536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=\""
+          "Value": "\"MVSLLopO1MDabJfIgozwBq5rkz8/Yg/toeoURPrtAME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 13:07:20 GMT"
+          "Value": "Sat, 21 Dec 2024 20:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -426,7 +550,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc="
+          "Value": "sha256-MVSLLopO1MDabJfIgozwBq5rkz8/Yg/toeoURPrtAME="
+        }
+      ]
+    },
+    {
+      "Route": "themeSwitcher.69deovij3i.js",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\themeSwitcher.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mg7EOx8qY3QMns+O+mpUzoP3NPWcxD8uoyZupkFSZU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 22:09:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69deovij3i"
+        },
+        {
+          "Name": "label",
+          "Value": "themeSwitcher.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mg7EOx8qY3QMns+O+mpUzoP3NPWcxD8uoyZupkFSZU0="
+        }
+      ]
+    },
+    {
+      "Route": "themeSwitcher.js",
+      "AssetFile": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\themeSwitcher.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mg7EOx8qY3QMns+O+mpUzoP3NPWcxD8uoyZupkFSZU0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 22:09:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mg7EOx8qY3QMns+O+mpUzoP3NPWcxD8uoyZupkFSZU0="
         }
       ]
     }

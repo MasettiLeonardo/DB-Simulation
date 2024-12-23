@@ -52,3 +52,4 @@ C:\Users\maset\source\repos\DBSimulation\DBSimulation\obj\Debug\net8.0\DBSimulat
 C:\Users\maset\source\repos\DBSimulation\DBSimulation\obj\Debug\net8.0\DBSimulation.genruntimeconfig.cache
 C:\Users\maset\source\repos\DBSimulation\DBSimulation\obj\Debug\net8.0\ref\DBSimulation.dll
 C:\Users\maset\source\repos\DBSimulation\DBSimulation\bin\Debug\net8.0\DBSimulation.staticwebassets.runtime.json
+C:\Users\maset\source\repos\DBSimulation\DBSimulation\obj\Debug\net8.0\DBSimulation.sourcelink.json

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\credentialsApi.js"
     },
     {
+      "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\darkTheme.css",
+      "PackagePath": "staticwebassets\\darkTheme.css"
+    },
+    {
       "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\queryApi.js",
       "PackagePath": "staticwebassets\\queryApi.js"
+    },
+    {
+      "Id": "C:\\Users\\maset\\source\\repos\\DBSimulation\\DBSimulation\\wwwroot\\themeSwitcher.js",
+      "PackagePath": "staticwebassets\\themeSwitcher.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DBSimulation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -1,4 +1,6 @@
 wwwroot\credentialsApi.js
+wwwroot\darkTheme.css
 wwwroot\index.html
 wwwroot\query.html
 wwwroot\queryApi.js
+wwwroot\themeSwitcher.js

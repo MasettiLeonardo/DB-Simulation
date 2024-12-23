@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using DBSimulation.Models.Requests;
 using MySql.Data.MySqlClient;
-using System.Data.Common;
 using DBSimulation.Database;
 
 namespace DBSimulation.Controllers

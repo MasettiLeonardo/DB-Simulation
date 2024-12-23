@@ -16,10 +16,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 body: JSON.stringify({ Content: queryInput })
             });
 
-            if (!response.ok) throw new Error('Failed to execute query');
+            if (!response.ok)
+                throw new Error('Failed to execute query');
+
 
             const data = await response.json();
-          
+
             console.log(data); // debug
 
             queryResults.innerHTML = '';  // refresh dei risultati precedenti
@@ -62,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         } catch (error) {
             console.error('Error executing query:', error);
-            queryResults.innerHTML = '<p class="text-danger text-center">Si è verificato un errore durante l\'esecuzione della query.</p>';
+            queryResults.innerHTML = '<p class="text-danger text-center">Si e\' verificato un errore durante l\'esecuzione della query.</p>';
         }
     });
-});
+}); 

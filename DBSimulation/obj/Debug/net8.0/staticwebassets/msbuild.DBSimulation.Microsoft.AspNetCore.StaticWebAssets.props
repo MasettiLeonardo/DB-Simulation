@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\credentialsApi.js'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\darkTheme.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DBSimulation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DBSimulation</BasePath>
+      <RelativePath>darkTheme.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gw28busj3g</Fingerprint>
+      <Integrity>UJxJsfhSWb2joUOHXRduws43mrX6KZ5LlvdrwhPkMC4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\darkTheme.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>DBSimulation</SourceId>
@@ -30,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>n0hswltkf3</Fingerprint>
-      <Integrity>2VabKe2PlJCvsjfdSjJ+rTlI/VGVjuJ8tEQH+fwosY0=</Integrity>
+      <Fingerprint>0xjcemof36</Fingerprint>
+      <Integrity>1BW0QGlZOXgHRzOio6Lk5/kn08byyymv7uw/qwvdX20=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -48,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0oqsgw2rrs</Fingerprint>
-      <Integrity>ABpj0MwRctOUK2WNFgVmGjbbLDbsCTwykQiYqMNKzi0=</Integrity>
+      <Fingerprint>eirnukj5pw</Fingerprint>
+      <Integrity>+vYqHCcT39ClSyFI9JnLIgy4b76Vf6KL3Wtw5iXMvXg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\query.html'))</OriginalItemSpec>
@@ -66,11 +84,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hd5fzhnpyg</Fingerprint>
-      <Integrity>C6C+FOK+8Uf/Fcz0dMzXRAOR+OSyAQTjYmABaNGiElc=</Integrity>
+      <Fingerprint>fcxw325j5f</Fingerprint>
+      <Integrity>MVSLLopO1MDabJfIgozwBq5rkz8/Yg/toeoURPrtAME=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\queryApi.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\themeSwitcher.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DBSimulation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DBSimulation</BasePath>
+      <RelativePath>themeSwitcher.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>69deovij3i</Fingerprint>
+      <Integrity>mg7EOx8qY3QMns+O+mpUzoP3NPWcxD8uoyZupkFSZU0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\themeSwitcher.js'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
